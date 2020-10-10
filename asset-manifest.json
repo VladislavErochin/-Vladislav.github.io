@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/VladislavErochin/create-js-react/static/js/main.52814f34.chunk.js",
+    "main.js.map": "/VladislavErochin/create-js-react/static/js/main.52814f34.chunk.js.map",
+    "runtime-main.js": "/VladislavErochin/create-js-react/static/js/runtime-main.a7f4bc2e.js",
+    "runtime-main.js.map": "/VladislavErochin/create-js-react/static/js/runtime-main.a7f4bc2e.js.map",
+    "static/js/2.c4aef885.chunk.js": "/VladislavErochin/create-js-react/static/js/2.c4aef885.chunk.js",
+    "static/js/2.c4aef885.chunk.js.map": "/VladislavErochin/create-js-react/static/js/2.c4aef885.chunk.js.map",
+    "index.html": "/VladislavErochin/create-js-react/index.html",
+    "precache-manifest.351c393025d34308abe73d71f0cbf088.js": "/VladislavErochin/create-js-react/precache-manifest.351c393025d34308abe73d71f0cbf088.js",
+    "service-worker.js": "/VladislavErochin/create-js-react/service-worker.js",
+    "static/js/2.c4aef885.chunk.js.LICENSE.txt": "/VladislavErochin/create-js-react/static/js/2.c4aef885.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f4bc2e.js",
+    "static/js/2.c4aef885.chunk.js",
+    "static/js/main.52814f34.chunk.js"
+  ]
+}
